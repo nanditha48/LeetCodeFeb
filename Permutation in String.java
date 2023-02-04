@@ -1,5 +1,6 @@
 //Solved using Sliding Window
-
+//Running Time: O(t)
+//Space Complexity: O(1)
 
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
